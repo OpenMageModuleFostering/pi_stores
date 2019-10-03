@@ -1,7 +1,7 @@
 {
-    "name": "OpenMageModuleFostering\/PI_Stores",
+    "name": "openmage-module-fostering\/pi_stores",
     "type": "magento-module",
-    "license": "Open-Software-License-(OSL)",
+    "license": "OSL-3.0",
     "homepage": "",
     "description": "This extension helps you to display your store locations on Google map.",
     "authors": [
